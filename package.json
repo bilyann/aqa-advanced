@@ -1,0 +1,23 @@
+{
+  "name": "aqa-intro-js",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/bilyann/aqa-advanced#readme",
+  "bugs": {
+    "url": "https://github.com/bilyann/aqa-advanced/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilyann/aqa-advanced.git"
+  },
+  "license": "ISC",
+  "author": "AnnaB",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
